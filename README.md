@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krystiyan Sergiev</h1>
 <h3 align="center">I am a web dev who try hard to reach the top of IT</h3>
 <img align="center" alt="GIF" src="https://github.com/developer-guy/developer-guy/raw/master/code.gif?raw=true" height="320" style="max-width: 100%;" data-target="animated-image.originalImage">
-<a href="https://github.com/KrystiyanS86?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=krystiyanS86&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Krystiyan Sergiev" />
-  <img align="center" alt="GIF" src="https://github.com/developer-guy/developer-guy/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: block;" data-target="animated-image.originalImage">
-</a>
+<img align="center" alt="GIF" src="https://github.com/developer-guy/developer-guy/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: block;" data-target="animated-image.originalImage">
+<img src="https://camo.githubusercontent.com/915f21213fc1d86fb6d4f2cba4168156957159d05fcbdc846a0eeb0acbf158f4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f64652c76697375616c73747564696f2c68746d6c2c6373732c6a732c72656163742c6e6f64656a732c7068702c63732c646f746e65742c6d7973716c2c706f7374677265732c626173682c6c696e7578" data-canonical-src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,html,css,js,react,nodejs,php,cs,dotnet,mysql,postgres,bash,linux" style="max-width: 100%;">
